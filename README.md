@@ -147,7 +147,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./resources/animation.gif"/>
+  <img height="300" src="./resources/animation.gif"/>
 </div>
 
 ###
