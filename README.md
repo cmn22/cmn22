@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Chaitanya Malani and I'm a ..., from ....</h2>
+<h2 align="left">Hi there 👋! I'm Chaitanya Malani </h2>
+<p align="left"> I’m a master’s student in Software Engineering with a passion for solving complex problems and building impactful solutions> </p>
 
 ###
 
@@ -146,7 +147,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="./resources/animation.gif"/>
 </div>
 
 ###
