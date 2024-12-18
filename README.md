@@ -1,6 +1,8 @@
 <h2 align="left">Hi there 👋! I'm Chaitanya Malani </h2>
 <p align="left"> I’m a master’s student in Software Engineering with a passion for solving complex problems and building impactful solutions> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=500&pause=1000&color=F7F7F7&width=435&lines=Hey+there!++I'm+Chaitanya+Malani#gh-dark-mode-only)]
+
 ###
 
 <p align="left">Programming Languages</p>
