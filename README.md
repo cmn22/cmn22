@@ -1,20 +1,10 @@
 # 👋🏻 Hey there! I'm Chaitanya Malani
 
-<a href="https://www.linkedin.com/in/chaitanya-malani/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://chaitanyamalani.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="Portfolio Website">
-</a>
-<a href="mailto:contact@chaitanyamalani.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
-</a>
-<a href="https://www.youtube.com/@chaitanyamalani" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://www.instagram.com/itsme.cmn22/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-malani/)
+[![Portfolio-Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://chaitanyamalani.com)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@chaitanyamalani.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@chaitanyamalani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsme.cmn22/)
 
 
 - I am pursuing my Master’s in Computer Science in Software Engineering from EPITA, Paris.
